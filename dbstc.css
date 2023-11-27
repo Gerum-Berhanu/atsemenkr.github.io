@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+#main-box {
+    background-color: aliceblue;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#username {
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+#grade {
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+#section {
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+#email, #password {
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 30px;
+}
